@@ -1,0 +1,12 @@
+E:\Visual Studio\C#\NAudioTest\NAudioTest\bin\Debug\NAudioTest.exe
+E:\Visual Studio\C#\NAudioTest\NAudioTest\bin\Debug\NAudioTest.pdb
+E:\Visual Studio\C#\NAudioTest\NAudioTest\bin\Debug\NAudio.dll
+E:\Visual Studio\C#\NAudioTest\NAudioTest\bin\Debug\NAudio.xml
+E:\Visual Studio\C#\NAudioTest\NAudioTest\obj\Debug\NAudioTest.csprojAssemblyReference.cache
+E:\Visual Studio\C#\NAudioTest\NAudioTest\obj\Debug\NAudioTest.Properties.Resources.resources
+E:\Visual Studio\C#\NAudioTest\NAudioTest\obj\Debug\NAudioTest.csproj.GenerateResource.cache
+E:\Visual Studio\C#\NAudioTest\NAudioTest\obj\Debug\NAudioTest.csproj.CoreCompileInputs.cache
+E:\Visual Studio\C#\NAudioTest\NAudioTest\obj\Debug\NAudioTest.csproj.CopyComplete
+E:\Visual Studio\C#\NAudioTest\NAudioTest\obj\Debug\NAudioTest.exe
+E:\Visual Studio\C#\NAudioTest\NAudioTest\obj\Debug\NAudioTest.pdb
+E:\Visual Studio\C#\NAudioTest\NAudioTest\obj\Debug\NAudioTest.MainForm.resources
